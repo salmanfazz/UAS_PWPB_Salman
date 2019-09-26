@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794801165591",
+    "firebase_url": "https://uaspwpbsalman.firebaseio.com",
+    "project_id": "uaspwpbsalman",
+    "storage_bucket": "uaspwpbsalman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794801165591:android:c6616fdb44ac12719f5352",
+        "android_client_info": {
+          "package_name": "com.example.uas_pwpb_salman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794801165591-i9r19cphefqkm98dna9c6m2q0icvemkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_pwpb_salman",
+            "certificate_hash": "e4702d90bd7045e619a8c6945f9d99166eb12777"
+          }
+        },
+        {
+          "client_id": "794801165591-q8ljg82n5ankjc7q5ii3qb8ppdon3do0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSthwyFgIwgfnwQUIqjgasdmXyLy0V4Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794801165591-q8ljg82n5ankjc7q5ii3qb8ppdon3do0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
